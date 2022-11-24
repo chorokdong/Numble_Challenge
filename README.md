@@ -20,3 +20,7 @@
 
 - **Model 구축 및 학습** : 22.11.13 ~ 22.11.24
   - 데이터 증강 및 정규화
+-----
+
+프로젝트 결과물 : - notion 링크 : https://elderly-source-59a.notion.site/c4d9c525b6444400a48b97bfdc94d477
+- github 링크 : https://github.com/chorokdong/Numble_Challenge
